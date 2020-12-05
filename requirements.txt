@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.3
+plyer==2.0.0
+PyMsgBox==1.0.9
+requests==2.24.0
